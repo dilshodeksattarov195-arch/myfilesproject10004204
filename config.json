@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartuave",
+        "uuid": 40711536,
+        "checksum": "xexef"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
